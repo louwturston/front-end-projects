@@ -1,1 +1,1 @@
-### Building a coming soon page with html, css
+### Building a coming soon page with html, css and  js
