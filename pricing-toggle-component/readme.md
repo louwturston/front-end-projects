@@ -1,1 +1,1 @@
-### Building a pricing component using the 
+### Building a pricing component
