@@ -1,1 +1,1 @@
-### Front-End Projects (HTML, CSS, JavaScript)
+### Front-End Projects (HTML, CSS, and JavaScript)
