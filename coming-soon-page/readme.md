@@ -1,1 +1,1 @@
-### Building a coming soon page
+### Building a coming soon responsive landing page
